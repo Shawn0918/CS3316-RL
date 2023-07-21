@@ -1,5 +1,5 @@
 ### Directory structure
-- 岳士森_520141910017
+- CS3316-RL
   - Policy-based
     - visualization
     - DDPG.py
